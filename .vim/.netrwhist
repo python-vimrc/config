@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/seokyungdong/scrapingEnv'
+let g:netrw_dirhist_2='/Users/seokyungdong'
+let g:netrw_dirhist_3='/Users/seokyungdong/scrapingEnv/bittorrent-parser'
+let g:netrw_dirhist_4='/Users/seokyungdong/djangocupcakeshop/accounts'
